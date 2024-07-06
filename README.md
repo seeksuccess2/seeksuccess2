@@ -1,4 +1,4 @@
-# Hi There!, I'm [Shanice Bennett] 👋
+# Hi There!, I'm Shanice Bennett 👋
 
 
 Welcome to my GitHub profile! I'm a passionate cybersecurity student and lifelong learner. Here, you'll find a variety of projects that showcase my skills and interests.
