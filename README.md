@@ -1,6 +1,6 @@
 # Hi There!, I'm [Shanice Bennett] 👋
 
-![Profile Banner](https://via.placeholder.com/800x200)
+![Profile Banner](https://www.canva.com/design/DAGKMHJxTYk/tRGlZQBbNZFCCJISDARF3A/edit?ui=eyJHIjp7fX0&layoutQuery=profile+banner)
 
 Welcome to my GitHub profile! I'm a passionate cybersecurity student and lifelong learner. Here, you'll find a variety of projects that showcase my skills and interests.
 
